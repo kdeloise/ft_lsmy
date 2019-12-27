@@ -1,0 +1,4 @@
+/Users/kdeloise/Desktop/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/kdeloise/Desktop/ft_lsmy
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kdeloise/Desktop/ft_lsmy/cmake-build-debug

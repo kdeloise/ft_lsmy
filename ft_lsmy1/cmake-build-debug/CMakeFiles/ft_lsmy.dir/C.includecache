@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kdeloise/Desktop/ft_lsmy/ft_ls.c
+ft_ls.h
+/Users/kdeloise/Desktop/ft_lsmy/ft_ls.h
+
+/Users/kdeloise/Desktop/ft_lsmy/ft_ls.h
+grp.h
+-
+pwd.h
+-
+dirent.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+time.h
+-
+string.h
+-
+
